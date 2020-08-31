@@ -1,0 +1,26 @@
+# Intellij
+build/
+*.log.json
+*.log.json.*
+.idea/
+logs/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+site/
+*.rdb
+
+.idea
+
+# Custom ignores
+*.jar
+ip.*.sh
+
+logging.*
+
+tmp/
